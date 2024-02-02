@@ -3,3 +3,6 @@
  <p>Curso EAD realizado de forma gratuita no site <a href="https://app.rocketseat.com.br/home"  target="_blank">ROCKETSEAT</a>.</p>
  <p>Agradeço a equipe do site, e ao professor Mayk Brito por compartilhar o conhecimento, e nos dar a oportunidade de fazer esse excelente curso básico, com uma boa abordagem em Flexbox além de outros conceitos HTML e CSS, com didádica simples e objetiva, foi um ótimo aprendizado.</p>
  <p>Agora é seguir caminhando/estudando...</p>
+
+ <p>Clique no link a baixo e veja o projeto realizado durante o curso...<br>
+ <a href="https://valdoedri.github.io/cursodiscover/" target="_blank"><strong>DevLinks</Strong></a></p>
